@@ -1,0 +1,28 @@
+D:\College Releted Material\C# Practice\bin\Debug\net9.0\C# Practice.exe
+D:\College Releted Material\C# Practice\bin\Debug\net9.0\C# Practice.deps.json
+D:\College Releted Material\C# Practice\bin\Debug\net9.0\C# Practice.runtimeconfig.json
+D:\College Releted Material\C# Practice\bin\Debug\net9.0\C# Practice.dll
+D:\College Releted Material\C# Practice\bin\Debug\net9.0\C# Practice.pdb
+D:\College Releted Material\C# Practice\obj\Debug\net9.0\C# Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\College Releted Material\C# Practice\obj\Debug\net9.0\C# Practice.AssemblyInfoInputs.cache
+D:\College Releted Material\C# Practice\obj\Debug\net9.0\C# Practice.AssemblyInfo.cs
+D:\College Releted Material\C# Practice\obj\Debug\net9.0\C# Practice.csproj.CoreCompileInputs.cache
+D:\College Releted Material\C# Practice\obj\Debug\net9.0\C# Practice.dll
+D:\College Releted Material\C# Practice\obj\Debug\net9.0\refint\C# Practice.dll
+D:\College Releted Material\C# Practice\obj\Debug\net9.0\C# Practice.pdb
+D:\College Releted Material\C# Practice\obj\Debug\net9.0\C# Practice.genruntimeconfig.cache
+D:\College Releted Material\C# Practice\obj\Debug\net9.0\ref\C# Practice.dll
+D:\C# Practice\bin\Debug\net9.0\C# Practice.exe
+D:\C# Practice\bin\Debug\net9.0\C# Practice.deps.json
+D:\C# Practice\bin\Debug\net9.0\C# Practice.runtimeconfig.json
+D:\C# Practice\bin\Debug\net9.0\C# Practice.dll
+D:\C# Practice\bin\Debug\net9.0\C# Practice.pdb
+D:\C# Practice\obj\Debug\net9.0\C# Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Practice\obj\Debug\net9.0\C# Practice.AssemblyInfoInputs.cache
+D:\C# Practice\obj\Debug\net9.0\C# Practice.AssemblyInfo.cs
+D:\C# Practice\obj\Debug\net9.0\C# Practice.csproj.CoreCompileInputs.cache
+D:\C# Practice\obj\Debug\net9.0\C# Practice.dll
+D:\C# Practice\obj\Debug\net9.0\refint\C# Practice.dll
+D:\C# Practice\obj\Debug\net9.0\C# Practice.pdb
+D:\C# Practice\obj\Debug\net9.0\C# Practice.genruntimeconfig.cache
+D:\C# Practice\obj\Debug\net9.0\ref\C# Practice.dll
