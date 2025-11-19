@@ -1,9 +1,7 @@
-﻿class Program
-{
-void progra()
+using system
     {
-        int myNum = 14;
-        Console.Write(myNum);
+
+        Console.Write("Hello World");
     }
 
-}
+
