@@ -1,0 +1,14 @@
+D:\All About C#\Simple_Intreset_Program\bin\Debug\net9.0\Simple_Intreset_Program.exe
+D:\All About C#\Simple_Intreset_Program\bin\Debug\net9.0\Simple_Intreset_Program.deps.json
+D:\All About C#\Simple_Intreset_Program\bin\Debug\net9.0\Simple_Intreset_Program.runtimeconfig.json
+D:\All About C#\Simple_Intreset_Program\bin\Debug\net9.0\Simple_Intreset_Program.dll
+D:\All About C#\Simple_Intreset_Program\bin\Debug\net9.0\Simple_Intreset_Program.pdb
+D:\All About C#\Simple_Intreset_Program\obj\Debug\net9.0\Simple_Intreset_Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\All About C#\Simple_Intreset_Program\obj\Debug\net9.0\Simple_Intreset_Program.AssemblyInfoInputs.cache
+D:\All About C#\Simple_Intreset_Program\obj\Debug\net9.0\Simple_Intreset_Program.AssemblyInfo.cs
+D:\All About C#\Simple_Intreset_Program\obj\Debug\net9.0\Simple_Intreset_Program.csproj.CoreCompileInputs.cache
+D:\All About C#\Simple_Intreset_Program\obj\Debug\net9.0\Simple_Intreset_Program.dll
+D:\All About C#\Simple_Intreset_Program\obj\Debug\net9.0\refint\Simple_Intreset_Program.dll
+D:\All About C#\Simple_Intreset_Program\obj\Debug\net9.0\Simple_Intreset_Program.pdb
+D:\All About C#\Simple_Intreset_Program\obj\Debug\net9.0\Simple_Intreset_Program.genruntimeconfig.cache
+D:\All About C#\Simple_Intreset_Program\obj\Debug\net9.0\ref\Simple_Intreset_Program.dll
