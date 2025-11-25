@@ -1,0 +1,14 @@
+D:\All About C#\Sting Manuplation\bin\Debug\net10.0\Sting Manuplation.exe
+D:\All About C#\Sting Manuplation\bin\Debug\net10.0\Sting Manuplation.deps.json
+D:\All About C#\Sting Manuplation\bin\Debug\net10.0\Sting Manuplation.runtimeconfig.json
+D:\All About C#\Sting Manuplation\bin\Debug\net10.0\Sting Manuplation.dll
+D:\All About C#\Sting Manuplation\bin\Debug\net10.0\Sting Manuplation.pdb
+D:\All About C#\Sting Manuplation\obj\Debug\net10.0\Sting Manuplation.GeneratedMSBuildEditorConfig.editorconfig
+D:\All About C#\Sting Manuplation\obj\Debug\net10.0\Sting Manuplation.AssemblyInfoInputs.cache
+D:\All About C#\Sting Manuplation\obj\Debug\net10.0\Sting Manuplation.AssemblyInfo.cs
+D:\All About C#\Sting Manuplation\obj\Debug\net10.0\Sting Manuplation.csproj.CoreCompileInputs.cache
+D:\All About C#\Sting Manuplation\obj\Debug\net10.0\Sting Manuplation.dll
+D:\All About C#\Sting Manuplation\obj\Debug\net10.0\refint\Sting Manuplation.dll
+D:\All About C#\Sting Manuplation\obj\Debug\net10.0\Sting Manuplation.pdb
+D:\All About C#\Sting Manuplation\obj\Debug\net10.0\Sting Manuplation.genruntimeconfig.cache
+D:\All About C#\Sting Manuplation\obj\Debug\net10.0\ref\Sting Manuplation.dll
