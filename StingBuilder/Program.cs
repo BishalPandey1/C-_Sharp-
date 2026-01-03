@@ -13,10 +13,9 @@ class StringBuilder
          sb.Insert(6,"Beutiful");
          Console.WriteLine(sb.ToString());
 
-         // Remove
+         
          StringBuilder sb = new StringBuilder("Hello Beautful World! ");
          sb.Remove(6,10);
          Console.WriteLine(sb.ToString());
-
     }
 }
