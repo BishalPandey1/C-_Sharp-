@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+
 
 using System.Reflection.Metadata;
 
@@ -34,4 +34,5 @@ Console.WriteLine("The value of string is:"+j);
 
 Console.WriteLine("The Increment value of a is "+a++);
 Console.WriteLine("The Decrement value of A is"+a--);
+
 
