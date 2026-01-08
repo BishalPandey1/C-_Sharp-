@@ -2,7 +2,7 @@
 
 using System.Reflection.Metadata;
 
-// variables and Operators Example.
+
 int a = 100;
 int b = 30;
 Console.WriteLine("A="+a);
@@ -34,3 +34,4 @@ Console.WriteLine("The value of string is:"+j);
 
 Console.WriteLine("The Increment value of a is "+a++);
 Console.WriteLine("The Decrement value of A is"+a--);
+
