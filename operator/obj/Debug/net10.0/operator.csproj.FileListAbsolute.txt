@@ -1,0 +1,14 @@
+D:\C# Project\operator\bin\Debug\net10.0\operator.exe
+D:\C# Project\operator\bin\Debug\net10.0\operator.deps.json
+D:\C# Project\operator\bin\Debug\net10.0\operator.runtimeconfig.json
+D:\C# Project\operator\bin\Debug\net10.0\operator.dll
+D:\C# Project\operator\bin\Debug\net10.0\operator.pdb
+D:\C# Project\operator\obj\Debug\net10.0\operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Project\operator\obj\Debug\net10.0\operator.AssemblyInfoInputs.cache
+D:\C# Project\operator\obj\Debug\net10.0\operator.AssemblyInfo.cs
+D:\C# Project\operator\obj\Debug\net10.0\operator.csproj.CoreCompileInputs.cache
+D:\C# Project\operator\obj\Debug\net10.0\operator.dll
+D:\C# Project\operator\obj\Debug\net10.0\refint\operator.dll
+D:\C# Project\operator\obj\Debug\net10.0\operator.pdb
+D:\C# Project\operator\obj\Debug\net10.0\operator.genruntimeconfig.cache
+D:\C# Project\operator\obj\Debug\net10.0\ref\operator.dll
