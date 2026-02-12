@@ -30,8 +30,8 @@ int n = 3;
 Console.WriteLine(m & n);
 Console.WriteLine(m | n);
 Console.WriteLine(m ^ n );
-
 Console.WriteLine("The conditional operator returns one of two value base on a Boolean expression.");
 int d = (a > b ) ? a : b;
 Console. WriteLine(d);
+
 
